@@ -18,7 +18,7 @@
 		How to use the JSON Parser:
 
 		1. Create an object of class FileParse and pass the name of Json File as a string to its constructor.
-		2. The method parse() of FileParser parses the Json File.
+		2. The method parse() of FileParser that parses the Json File.
 		objectName.parse();
 
 		3. Other Methods:
